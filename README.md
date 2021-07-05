@@ -1,5 +1,5 @@
 # Spring and Hibernate for Beginners (Includes Spring Boot)
-Projects from the Spring and Hibernate Udemy course
+Projects from the Spring and Hibernate for Beginners (Includes Spring Boot) Udemy course
 
 https://www.udemy.com/course/spring-hibernate-tutorial/
 
